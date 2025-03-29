@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h1>OAuthClient</h1>
+<a href="http://localhost:5299/oauth/authorize?response_type=code&client_id=client_app&redirect_uri=http://localhost:5298/callback&state=abc">
+    Login with OAuth
+</a>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

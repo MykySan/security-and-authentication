@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6gzI8wXKFKu9pionBJf3UiOnnDPeOR415mRwcOcMO14=",
+  "Source": "OAuthServer",
+  "BasePath": "_content/OAuthServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,5 @@
+GET http://localhost:5000/api/user/role-based
+
+###
+
+GET http://localhost:5000/api/user/claims-based

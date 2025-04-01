@@ -37,3 +37,4 @@ E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\UserAuthInMemo
 E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\UserAuthInMemoryApp\obj\Debug\net8.0\UserAuthInmemoryApp.pdb
 E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\UserAuthInMemoryApp\obj\Debug\net8.0\UserAuthInmemoryApp.genruntimeconfig.cache
 E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\UserAuthInMemoryApp\obj\Debug\net8.0\ref\UserAuthInmemoryApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\UserAuthInmemoryApp\obj\Debug\net8.0\UserAuthInmemoryApp.sourcelink.json

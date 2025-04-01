@@ -19,7 +19,7 @@ namespace SimpleTokenAuthApp
             var user = authManager.GetUserByToken(token);
             if (user != null)
             {
-                Console.WriteLine($"Access granter to secure content for user: {user.Username}");
+                Console.WriteLine($"Access granted to secure content for user: {user.Username}");
             }
             else
             {

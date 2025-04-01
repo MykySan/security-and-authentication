@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserAuthInmemoryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1054a58fb0cef84e78fee75f885d78c3dd3bbd28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8762f59e5e569107a3b67292a90d2017969f3dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserAuthInmemoryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserAuthInmemoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

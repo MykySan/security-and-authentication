@@ -1,0 +1,14 @@
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\bin\Debug\net8.0\SimpleTokenAuthApp.exe
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\bin\Debug\net8.0\SimpleTokenAuthApp.deps.json
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\bin\Debug\net8.0\SimpleTokenAuthApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\bin\Debug\net8.0\SimpleTokenAuthApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\bin\Debug\net8.0\SimpleTokenAuthApp.pdb
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\refint\SimpleTokenAuthApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.pdb
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\SimpleTokenAuthApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SimpleTokenAuthApp\obj\Debug\net8.0\ref\SimpleTokenAuthApp.dll

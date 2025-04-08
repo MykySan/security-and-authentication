@@ -1,0 +1,31 @@
+POST http://localhost:5280/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "password2"
+}
+
+###
+POST http://localhost:5280/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "user1",
+    "password": "password1"
+}
+
+###
+POST http://localhost:5280/api/auth/refresh
+Content-Type: application/json
+
+{
+    "refreshToken": "23b22196-de37-45ae-a870-de1fcc3f43ec"
+}
+
+###
+GET http://localhost:5280/api/secure/user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InVzZXIxIiwicm9sZSI6IlVzZXIiLCJuYmYiOjE3NDMzNjA5OTIsImV4cCI6MTc0MzM2MTExMiwiaWF0IjoxNzQzMzYwOTkyfQ.sabBcEViwjzOhVMw2Y3uONq3kML7vnw41O2iHgOb0Hk
+###
+GET http://localhost:5280/api/secure/admin
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwicm9sZSI6IkFkbWluIiwibmJmIjoxNzQzMzYwOTc4LCJleHAiOjE3NDMzNjEwOTgsImlhdCI6MTc0MzM2MDk3OH0.ZN5q1J0f-gTm6NDMOACnxNk-vGqCg-ZXsp4VkUJpPQc

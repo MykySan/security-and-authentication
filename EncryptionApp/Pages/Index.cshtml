@@ -1,0 +1,11 @@
+﻿@page
+@model EncryptionApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" asp-for="UploadedFile" />
+    <button type="submit" formaction="/?handler=Encrypt">Encrypt</button>
+    <button type="submit" formaction="/?handler=Decrypt">Decrypt</button>
+</form>

@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\bin\Debug\net8.0\SecureDataApp.exe
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\bin\Debug\net8.0\SecureDataApp.deps.json
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\bin\Debug\net8.0\SecureDataApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\bin\Debug\net8.0\SecureDataApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\bin\Debug\net8.0\SecureDataApp.pdb
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\refint\SecureDataApp.dll
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.pdb
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\SecureDataApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\SecurityAndAuthentication\SecureDataApp\obj\Debug\net8.0\ref\SecureDataApp.dll
